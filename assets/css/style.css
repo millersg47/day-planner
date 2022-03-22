@@ -61,8 +61,8 @@ textarea {
 
 .saveBtn {
   border: 2px solid #A690A4;
-  background-color: #B1B695;
-  color: white;
+  background-color: #EFE9F4;
+  color: #A690A4;
 }
 
 .saveBtn i:hover {
@@ -71,6 +71,13 @@ textarea {
 }
 
 .hour {
+  border-top: 2px dashed #A690A4;
+  border-bottom: 2px solid #A690A4;
+  border-right: 2px solid #A690A4;
+  color: #5E4B56;
+}
+
+.hour-content {
   border: 2px solid #A690A4;
   background-color: #B1B695;
   color: #5E4B56;
