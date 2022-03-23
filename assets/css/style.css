@@ -45,17 +45,20 @@ textarea {
 }
 
 .past {
-  background-color: #FCD0A1;
+  background-color:  #B1B695;
+  border: 2px solid #A690A4;
   color: #5E4B56;
 }
 
 .present {
-  background-color: #AFD2E9;
+  background-color: #FCD0A1;
+  border: 2px solid #A690A4;
   color:#5E4B56;
 }
 
 .future {
-  background-color: #B1B695;
+  background-color: #AFD2E9;
+  border: 2px solid #A690A4;
   color: #5E4B56;
 }
 
@@ -77,9 +80,4 @@ textarea {
   color: #5E4B56;
 }
 
-.hour-content {
-  border: 2px solid #A690A4;
-  background-color: #B1B695;
-  color: #5E4B56;
-}
 
